@@ -1,7 +1,7 @@
 # Library Management System
 
 ## Overview
-This project is a library management system designed to showcase SQL skills. It includes scripts for creating tables, inserting sample data, and performing various SQL operations.
+This project is a library management system designed to showcase SQL skills. It includes scripts for creating tables, inserting sample data, and performing various SQL operations. Data was generated on Mockaroo for `Books` and  `LibraryMembers` tables.
 
 ## Database Schema
 - **Books**: Contains information about the books available in the library.
