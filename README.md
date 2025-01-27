@@ -13,7 +13,7 @@ This project is a library management system designed to showcase SQL skills. It 
   - `author` (VARCHAR(255))
   - `category` (VARCHAR(255))
   - `ISBN` (VARCHAR(255))
-  - `publication_date` (INT)
+  - `publication_date` (DATE)
   - `available_copies` (INT)
 
 - **LibraryMembers**: Contains information about the members of the library
