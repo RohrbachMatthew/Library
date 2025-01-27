@@ -24,7 +24,7 @@ This project is a library management system designed to showcase SQL skills. It 
   - `phone_number` (VARCHAR(20))
   - `membership_date` (DATE)
 
-  **BookLoans**: Constains information for books that where loaned by members
+- **BookLoans**: Constains information for books that where loaned by members
 
   - `loanID` (INT PRIMARY KEY)
   - `bookID` (INT) (FOREIGN KEY, References `Books` (`bookID`))
