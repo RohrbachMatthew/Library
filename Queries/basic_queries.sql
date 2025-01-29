@@ -23,11 +23,12 @@ UNION
 Select 'Books' AS Description, sum(available_copies) AS 'Total' from Books
 UNION
 Select 'Books Borrowed' AS Description, count(loanID) AS 'Total' from BookLoans;*/
-/* (RESULTS): Description   | Total
-			  Members       | 200
-              Books		    | 930
-              Books Borrowed| 0  (Database has 0 values as of right now
-              */
+/* (RESULTS): 	
+Description   | Total
+Members       | 200
+Books		  | 930
+Books Borrowed| 0  (Database has 0 values as of right now
+*/
 
 
 -- Changes the author name from Mockaroo database values to the correct author name
@@ -46,10 +47,12 @@ WHERE author = 'Harper Lee'; */
 -- Query shows member name, ID, joined date for members joined in a specific year
 /*Select member_name, memberID, membership_date from LibraryMembers
 where year (membership_date) = 2010; */
-/* (RESULT): Celia Jemmison | 13  | 2010-06-07
-			Padget Davidman	| 140 |	2010-09-29
-            Robinet Ucchino | 144 | 2010-08-21
-            ........................ */ 
+/* (RESULT): 
+Celia Jemmison  | 13   | 2010-06-07
+Padget Davidman	| 140  |	2010-09-29
+Robinet Ucchino | 144  | 2010-08-21
+........................ 
+*/ 
 
 
 -- Query shows book title, publication date, bookID ordered by year descending
