@@ -1,0 +1,201 @@
+"bookID";"title";"author";"category";"ISBN";"publication_date";"available_copies"
+10;"The Hunger Games";"Pegg";"romance";"841970844-5";"1994-09-09";2
+11;"The Secret Garden";"Tennewell";"romance";"722585970-6";"1945-11-30";5
+18;"To Kill a Mockingbird";"Harper Lee";"self-help";"465336609-8";"2024-10-05";8
+20;"The Great Gatsby";"Bridgen";"Fiction";"455001391-5";"1971-07-26";2
+21;"1984";"Johnson";"Thriller";"528724159-3";"1987-04-13";3
+24;"The Catcher in the Rye";"Edsall";"Biography";"012552145-6";"2020-09-18";5
+25;"Pride and Prejudice";"Brooksby";"biography";"841411524-1";"1993-02-02";4
+34;"1984";"Parfrey";"Mystery";"422527556-6";"1990-12-18";6
+42;"Harry Potter and the Sorcerer's Stone";"Foulcher";"fantasy";"167183658-8";"1993-05-22";2
+51;"Pride and Prejudice";"Littley";"Non-Fiction";"502620270-5";"1953-08-26";5
+52;"The Great Gatsby";"Merill";"Fantasy";"092791134-5";"1986-12-12";4
+58;"The Catcher in the Rye";"Denisovo";"Thriller";"547874663-0";"1959-12-08";4
+62;"1984";"Gay";"cookbook";"543058275-1";"1995-07-02";6
+69;"The Lord of the Rings";"Graalmans";"self-help";"126185267-2";"2023-08-12";5
+78;"Pride and Prejudice";"Sleney";"Romance";"785262926-1";"2016-06-29";5
+81;"Pride and Prejudice";"Fenty";"Mystery";"870594013-3";"2003-05-23";6
+87;"1984";"Ginnaly";"Thriller";"136648957-8";"1970-09-20";4
+88;"The Hunger Games";"Schruyer";"history";"833493289-8";"2001-02-06";5
+89;"The Great Gatsby";"Lawther";"Thriller";"683404084-6";"1958-11-29";4
+92;"Pride and Prejudice";"Cardoe";"Biography";"861260374-9";"1997-09-21";2
+95;"The Hunger Games";"Cassar";"science fiction";"280330220-9";"2011-08-15";5
+96;"The Hunger Games";"Tattam";"cookbook";"630114834-7";"1980-08-13";4
+110;"The Great Gatsby";"Minmagh";"fantasy";"816524262-8";"2013-08-14";5
+113;"The Catcher in the Rye";"Strangward";"science fiction";"950724850-1";"1968-07-22";3
+117;"Pride and Prejudice";"Koeppe";"Fiction";"494253621-9";"1986-11-04";4
+124;"The Catcher in the Rye";"MacDermot";"fantasy";"016900683-2";"1994-10-17";6
+134;"Pride and Prejudice";"Boorer";"Thriller";"317195602-0";"1975-01-14";5
+142;"The Great Gatsby";"Yitzowitz";"Mystery";"266839715-4";"1974-07-12";4
+163;"The Great Gatsby";"Deeble";"Thriller";"060002872-0";"2007-09-22";4
+166;"The Great Gatsby";"Jablonski";"self-help";"574833122-5";"1995-08-14";7
+171;"1984";"Kaes";"Romance";"638040597-6";"2022-11-28";2
+174;"1984";"Bater";"Romance";"650914308-9";"1953-04-05";4
+188;"To Kill a Mockingbird";"Harper Lee";"Romance";"982632744-1";"1990-05-11";3
+197;"The Secret Garden";"Baude";"biography";"448610213-4";"1943-06-27";5
+198;"Pride and Prejudice";"Jaksic";"Non-Fiction";"284631028-9";"1985-07-28";3
+200;"The Secret Garden";"Dugdale";"science fiction";"342574741-X";"1978-02-09";4
+204;"The Great Gatsby";"Garnar";"Biography";"056819554-X";"1991-04-11";4
+212;"The Hunger Games";"Piddock";"romance";"279027021-X";"2014-03-18";5
+231;"1984";"Le Page";"Non-Fiction";"224350377-8";"2006-02-06";4
+238;"The Great Gatsby";"Langcastle";"Non-Fiction";"930414446-9";"1988-04-24";4
+248;"The Catcher in the Rye";"Diwell";"Romance";"023476845-2";"1987-06-03";5
+251;"Pride and Prejudice";"Ragless";"Non-Fiction";"245385220-5";"2023-06-24";4
+256;"The Great Gatsby";"Ellery";"Mystery";"386890912-5";"1990-12-25";5
+258;"1984";"Becke";"Romance";"232493779-4";"1990-02-06";5
+262;"The Great Gatsby";"Spurge";"non-fiction";"209233377-1";"2003-11-02";2
+273;"Pride and Prejudice";"Krolle";"science fiction";"117836408-9";"1943-10-21";4
+277;"The Hunger Games";"Bayne";"romance";"625145512-8";"2012-02-06";5
+278;"The Secret Garden";"Rawlence";"romance";"323467010-2";"2016-01-11";4
+280;"The Great Gatsby";"Russilll";"Thriller";"378017049-3";"1987-04-06";5
+283;"To Kill a Mockingbird";"Harper Lee";"Non-Fiction";"548877527-7";"1967-12-14";5
+287;"The Secret Garden";"Carty";"non-fiction";"995346069-8";"1966-12-31";4
+288;"Pride and Prejudice";"Polendine";"romance";"961536042-2";"1982-04-12";5
+301;"1984";"Revel";"cookbook";"186220353-9";"2009-06-06";5
+311;"Pride and Prejudice";"Smalles";"Romance";"517930410-5";"1990-05-01";6
+318;"1984";"Cordaroy";"history";"396936052-8";"2004-04-29";4
+321;"1984";"Hyslop";"romance";"831932338-X";"1962-01-03";6
+323;"The Great Gatsby";"MacGillivrie";"Thriller";"937238783-5";"1988-05-27";4
+325;"The Hunger Games";"Scafe";"biography";"715828270-8";"1962-02-01";8
+326;"To Kill a Mockingbird";"Harper Lee";"mystery";"293660486-9";"1947-11-01";7
+331;"The Lord of the Rings";"Halsall";"science fiction";"596331084-9";"1991-07-18";6
+333;"To Kill a Mockingbird";"Harper Lee";"Thriller";"605270637-6";"1954-03-12";2
+342;"The Da Vinci Code";"Mellody";"fantasy";"891602200-2";"1980-05-03";7
+353;"The Great Gatsby";"Vasyushkhin";"Fantasy";"080209169-5";"1951-08-10";6
+359;"The Da Vinci Code";"Kahn";"biography";"561802451-9";"2004-04-08";3
+364;"Harry Potter and the Sorcerer's Stone";"Wynrahame";"biography";"856665454-4";"1944-04-01";7
+369;"Pride and Prejudice";"Mathonnet";"Science Fiction";"969802178-7";"1994-07-28";2
+378;"Pride and Prejudice";"Tyrwhitt";"Non-Fiction";"473233747-3";"1991-12-18";2
+380;"The Da Vinci Code";"Tomasini";"fantasy";"150890131-7";"1954-01-21";5
+384;"1984";"Woodrough";"Biography";"906996818-5";"1994-03-10";6
+400;"1984";"Moggan";"Fiction";"239867113-5";"2005-08-06";3
+427;"The Catcher in the Rye";"Minards";"Thriller";"458419630-3";"2006-01-12";3
+429;"The Secret Garden";"Autrie";"mystery";"918886213-5";"2018-11-30";8
+431;"The Catcher in the Rye";"Snedden";"fiction";"795881490-9";"1980-02-10";8
+437;"The Great Gatsby";"Ewbanke";"Fantasy";"175095310-2";"2004-05-09";2
+440;"Pride and Prejudice";"Sheirlaw";"Biography";"206158283-4";"2000-07-01";6
+446;"The Great Gatsby";"Duffit";"Science Fiction";"767606973-4";"2004-06-16";4
+447;"1984";"Testo";"Romance";"925564428-9";"1975-10-27";3
+448;"1984";"Barthram";"cookbook";"706818648-3";"1972-07-28";5
+453;"To Kill a Mockingbird";"Harper Lee";"Mystery";"722335036-9";"2001-08-06";6
+456;"1984";"Norvill";"romance";"207951362-1";"1946-08-06";8
+457;"The Great Gatsby";"Lannon";"Thriller";"804570219-2";"1987-02-15";2
+459;"Pride and Prejudice";"Brandenberg";"history";"253429812-7";"1996-11-24";7
+464;"The Catcher in the Rye";"Chester";"Non-Fiction";"745783818-X";"1978-12-01";4
+467;"The Secret Garden";"Hanney";"fiction";"434312823-7";"2013-07-19";3
+469;"The Great Gatsby";"Patron";"Fantasy";"675357072-1";"1998-07-16";6
+471;"The Great Gatsby";"Devons";"Thriller";"975496803-9";"1965-12-31";4
+472;"The Great Gatsby";"Wraggs";"romance";"965253681-4";"1998-10-30";6
+474;"The Great Gatsby";"Zannetti";"mystery";"022817984-X";"2021-03-01";5
+475;"The Catcher in the Rye";"Kell";"Fiction";"437353671-6";"1971-09-08";5
+478;"The Catcher in the Rye";"Sabater";"Biography";"185366189-9";"1969-01-25";4
+479;"To Kill a Mockingbird";"Harper Lee";"Science Fiction";"030120131-5";"2010-10-13";2
+481;"1984";"Dysert";"self-help";"089632272-6";"1989-04-09";6
+485;"1984";"Mussared";"science fiction";"947031685-1";"1989-11-24";5
+486;"Harry Potter and the Sorcerer's Stone";"Atwel";"history";"972979598-3";"1967-05-29";3
+492;"1984";"Kuhndel";"Non-Fiction";"202555141-X";"1985-09-28";5
+504;"The Great Gatsby";"Agge";"Biography";"566139516-7";"1977-01-02";2
+507;"1984";"Patesel";"Fiction";"053714208-8";"1956-06-28";6
+508;"Harry Potter and the Sorcerer's Stone";"Scutchin";"science fiction";"286983475-6";"1951-04-22";6
+513;"The Catcher in the Rye";"Frie";"history";"226873606-7";"1948-06-28";5
+516;"To Kill a Mockingbird";"Harper Lee";"Mystery";"145174479-X";"1957-11-11";3
+520;"1984";"Sibbs";"Biography";"184692374-3";"1958-03-08";6
+522;"To Kill a Mockingbird";"Harper Lee";"Fantasy";"033339807-6";"2006-01-03";3
+526;"The Catcher in the Rye";"Ash";"fiction";"170653049-8";"1949-05-26";5
+528;"The Great Gatsby";"Gammack";"Non-Fiction";"648417178-5";"1956-06-22";2
+529;"The Catcher in the Rye";"Greenman";"Romance";"997681712-6";"1959-08-09";2
+532;"The Catcher in the Rye";"Osgar";"Mystery";"394978433-0";"2015-08-29";4
+543;"1984";"Trevenu";"Mystery";"830893268-1";"1966-08-03";4
+547;"1984";"Roubert";"Fantasy";"242904258-4";"1968-04-22";5
+549;"The Great Gatsby";"Reye";"Non-Fiction";"795993512-2";"1998-03-30";6
+550;"The Lord of the Rings";"Dominicacci";"non-fiction";"185462086-X";"1953-07-30";6
+556;"Harry Potter and the Sorcerer's Stone";"Batty";"biography";"842617557-0";"2008-09-24";7
+560;"1984";"Turl";"Fantasy";"135005834-3";"1989-01-29";2
+567;"The Da Vinci Code";"Featherstone";"self-help";"773282044-4";"1953-05-20";8
+572;"The Da Vinci Code";"Janczyk";"romance";"324490306-1";"1989-11-07";5
+577;"To Kill a Mockingbird";"Harper Lee";"self-help";"364769452-5";"1956-02-25";2
+581;"The Hunger Games";"Beggs";"non-fiction";"552415353-6";"2004-09-20";8
+582;"The Catcher in the Rye";"Hudspeth";"Mystery";"340948600-3";"2011-01-13";6
+584;"The Great Gatsby";"Dovermann";"Non-Fiction";"202205457-1";"2007-01-16";6
+588;"The Catcher in the Rye";"Loseby";"romance";"786867224-2";"1973-10-06";5
+591;"The Da Vinci Code";"Akers";"mystery";"383571098-2";"1949-07-18";8
+597;"The Great Gatsby";"Linscott";"Science Fiction";"330897638-2";"2015-09-06";6
+599;"1984";"Corrie";"self-help";"356571516-2";"1980-08-12";2
+602;"The Great Gatsby";"Drinan";"non-fiction";"084598411-X";"2020-12-19";4
+616;"Pride and Prejudice";"Heinle";"Fantasy";"959997824-2";"1968-11-19";3
+618;"The Great Gatsby";"Vondrasek";"self-help";"882869097-6";"1990-10-23";2
+619;"1984";"Chesley";"fiction";"301638670-4";"1989-11-27";5
+641;"Harry Potter and the Sorcerer's Stone";"Bazoche";"mystery";"478866378-3";"1956-09-27";6
+642;"Pride and Prejudice";"Johnson";"Non-Fiction";"699653875-0";"1992-04-30";6
+647;"The Catcher in the Rye";"Wahlberg";"Fiction";"173509737-3";"1995-09-30";2
+650;"To Kill a Mockingbird";"Harper Lee";"Science Fiction";"139583969-7";"1999-11-23";5
+662;"To Kill a Mockingbird";"Harper Lee";"Fantasy";"391748142-1";"2019-10-26";6
+665;"1984";"Tames";"Thriller";"097873760-1";"1973-09-25";6
+668;"The Secret Garden";"Hiskey";"mystery";"960321258-X";"1957-12-12";7
+674;"1984";"Childerhouse";"Fantasy";"999648196-4";"2014-06-29";4
+677;"The Great Gatsby";"Challens";"Fiction";"507919678-5";"2000-12-18";4
+687;"To Kill a Mockingbird";"Harper Lee";"Science Fiction";"182044478-3";"1962-06-07";6
+691;"The Lord of the Rings";"Eick";"self-help";"189935760-2";"2014-06-14";3
+695;"Pride and Prejudice";"Harrington";"Thriller";"504081554-9";"2006-08-20";2
+699;"Pride and Prejudice";"Mouat";"Biography";"334487873-5";"2001-03-27";6
+701;"1984";"Lehrmann";"Non-Fiction";"331454747-1";"2000-01-22";6
+702;"To Kill a Mockingbird";"Harper Lee";"fiction";"024827510-0";"1983-01-10";6
+704;"The Great Gatsby";"Cousin";"Non-Fiction";"969717266-8";"1998-02-24";4
+705;"To Kill a Mockingbird";"Harper Lee";"Biography";"650451609-X";"1960-10-27";2
+707;"The Da Vinci Code";"Wyld";"non-fiction";"735289756-9";"1977-10-25";3
+708;"1984";"Reinhart";"Thriller";"884604779-6";"1984-02-21";2
+711;"The Catcher in the Rye";"Elliss";"history";"982561004-2";"1998-11-27";7
+722;"1984";"Wackley";"Fiction";"244299445-3";"1952-12-09";3
+729;"To Kill a Mockingbird";"Harper Lee";"Biography";"694658689-1";"2013-07-07";6
+739;"Pride and Prejudice";"Lindfors";"Fantasy";"047120998-8";"2017-07-12";3
+741;"To Kill a Mockingbird";"Harper Lee";"Thriller";"963796193-3";"1991-07-17";4
+743;"The Hunger Games";"Foale";"self-help";"558679563-9";"2017-09-22";3
+749;"Pride and Prejudice";"Kearley";"non-fiction";"399571817-5";"1991-11-13";2
+750;"The Catcher in the Rye";"McKmurrie";"Fantasy";"594885245-8";"1994-10-31";2
+753;"The Hunger Games";"Gomersall";"cookbook";"641788815-0";"1971-01-19";8
+756;"To Kill a Mockingbird";"Harper Lee";"Fantasy";"769036724-0";"1983-02-08";5
+758;"The Great Gatsby";"Darwen";"Thriller";"127916528-6";"1966-06-14";2
+762;"The Da Vinci Code";"Woltering";"self-help";"130176092-7";"1988-09-05";3
+763;"Pride and Prejudice";"Van Der Weedenburg";"Non-Fiction";"243385803-8";"1956-05-02";4
+775;"The Great Gatsby";"Pardon";"science fiction";"820649164-3";"1963-03-01";8
+795;"Pride and Prejudice";"Castille";"self-help";"836358998-5";"2005-12-09";4
+799;"The Great Gatsby";"Tythe";"Thriller";"127780229-7";"1971-07-09";3
+804;"1984";"Rodgers";"fiction";"784268076-0";"2014-03-18";5
+805;"Harry Potter and the Sorcerer's Stone";"Ivanenkov";"non-fiction";"869121250-0";"1950-06-19";6
+812;"The Catcher in the Rye";"Kroch";"Non-Fiction";"149630800-X";"1957-03-07";3
+821;"Harry Potter and the Sorcerer's Stone";"De Souza";"fantasy";"329602173-6";"1972-02-16";6
+826;"1984";"Covert";"Non-Fiction";"964336689-8";"2000-04-18";4
+828;"To Kill a Mockingbird";"Harper Lee";"Science Fiction";"217552499-X";"1954-12-21";2
+830;"The Great Gatsby";"Loude";"fiction";"122546125-1";"2006-11-22";8
+835;"The Secret Garden";"Haslegrave";"self-help";"183653580-5";"1959-06-01";7
+845;"The Catcher in the Rye";"Buey";"Fiction";"719045098-X";"2005-04-19";6
+850;"The Hunger Games";"Kingman";"romance";"384557886-6";"2017-04-20";4
+852;"The Catcher in the Rye";"Donalson";"Fantasy";"608517080-7";"2001-01-16";5
+858;"The Great Gatsby";"Wallis";"Thriller";"157675268-2";"2015-10-04";5
+859;"The Great Gatsby";"Hambridge";"Mystery";"576312150-3";"2023-06-25";3
+868;"The Great Gatsby";"Cooksley";"biography";"092715806-X";"1971-03-11";7
+871;"To Kill a Mockingbird";"Harper Lee";"Non-Fiction";"212249451-4";"2023-07-04";3
+877;"Harry Potter and the Sorcerer's Stone";"Kirk";"self-help";"940331750-7";"1992-12-08";7
+881;"The Hunger Games";"Spennock";"cookbook";"573695464-8";"2015-12-30";8
+888;"To Kill a Mockingbird";"Harper Lee";"Mystery";"161280146-3";"2011-11-12";6
+889;"Pride and Prejudice";"Skamell";"Thriller";"470154958-4";"1975-04-20";3
+890;"Pride and Prejudice";"Cobbin";"mystery";"303655118-2";"1977-06-24";6
+891;"The Great Gatsby";"Meier";"Mystery";"791895771-7";"1972-02-06";3
+901;"1984";"MacGuffie";"cookbook";"044978838-5";"1965-08-25";3
+902;"Pride and Prejudice";"Oldham";"Thriller";"076732767-5";"1979-01-10";6
+909;"Pride and Prejudice";"Challenger";"mystery";"178728153-1";"1970-03-24";4
+913;"The Hunger Games";"Fellnee";"science fiction";"097475838-8";"2000-02-13";7
+916;"1984";"Pow";"Thriller";"815279712-X";"2012-06-24";5
+919;"The Catcher in the Rye";"Wilkisson";"Biography";"159755249-6";"1952-03-13";5
+924;"The Catcher in the Rye";"Guyonneau";"Mystery";"973034790-5";"1974-04-12";5
+928;"The Catcher in the Rye";"Chellam";"Fantasy";"487537907-2";"1990-06-23";4
+930;"The Great Gatsby";"Cotty";"Fiction";"596378257-0";"1954-04-29";2
+932;"To Kill a Mockingbird";"Harper Lee";"Thriller";"026668041-0";"1998-12-13";5
+935;"The Da Vinci Code";"Calabry";"romance";"626785048-X";"1949-08-14";3
+941;"The Hunger Games";"Robardet";"fantasy";"710659696-5";"2014-09-02";5
+951;"To Kill a Mockingbird";"Harper Lee";"Romance";"106682636-6";"1970-12-17";6
+952;"To Kill a Mockingbird";"Harper Lee";"Biography";"594957955-0";"2023-09-05";6
+957;"1984";"Gane";"Biography";"571956595-7";"1987-05-10";6
+988;"The Great Gatsby";"Daspar";"fiction";"427689448-4";"1974-04-09";6
+989;"Pride and Prejudice";"Poon";"non-fiction";"531837874-9";"1975-04-08";6
+994;"The Da Vinci Code";"Rothery";"biography";"863066294-8";"1951-04-01";8
