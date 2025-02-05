@@ -98,3 +98,17 @@ order by count(member_name) desc; */
 group by month(membership_date)
 order by count(memberID) desc; */
 -- (RESULT): table with memberID count and the month (Jan has the most followed by Aug)
+
+
+-- Updates the Books table to minus one copy when it is loaned
+/*update Books
+set available_copies = available_copies - 1
+where bookID = 859;*/
+-- (RESULT): bookID 859 had 3 copies available, after loaning it is now 2 copies.
+
+
+-- Updates Books table to add one copy when book is returned
+/*update Books
+set available_copies = available_copies + 1
+where bookID = 859; */
+-- (RESULT): bookID 859 had 2 copies available, after returning updated to 3 copies.
