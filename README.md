@@ -39,6 +39,14 @@ This project is a library management system designed to showcase SQL skills. It 
    - Run `create_and_insert_books.sql` to create the `Books` table and insert sample data.
    - Run `create_and_insert_library_members.sql` to create the `LibraryMembers` table and insert sample date.
    - Run `create_book_loans_tables.sql` to create the `BookLoans` table. (no values are insterted at creation)
-2. **Explore Queries**: Check the `queries` folder for example SQL queries that demonstrate various operations.
+2. **Explore Queries**: Check the [queries](https://github.com/RohrbachMatthew/Library/tree/master/Queries) folder for example SQL queries that demonstrate various operations.
 
 ## Data Files
+
+Data is backed up as csv files here: [Database_Backup_csv](https://github.com/RohrbachMatthew/Library/tree/master/Database_Backup_csv)
+
+- [Books_original.csv](https://github.com/RohrbachMatthew/Library/blob/master/Database_Backup_csv/Books_original.csv) Contains a copy of the Books data
+
+- [LibraryMembers_original.csv](https://github.com/RohrbachMatthew/Library/blob/master/Database_Backup_csv/LibraryMembers_original.csv) Contains a copy of the Members data
+
+- [BookLoans_original.csv](https://github.com/RohrbachMatthew/Library/blob/master/Database_Backup_csv/BookLoans_original.csv) Contains a copy of the bookloans data
