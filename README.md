@@ -1,7 +1,7 @@
 # Library Management System
 
 ## Overview
-- [Click Here](https://github.com/RohrbachMatthew/Library_System_Python) to goto the python program that uses this database.
+- [Click Here](https://github.com/RohrbachMatthew/Library_System_Python) to goto the python library management program that uses this database.
   
 This project is a library management system designed to showcase SQL skills. It includes scripts for creating tables, inserting sample data, and performing various SQL operations. Data was generated on Mockaroo for `Books` and `LibraryMembers` tables.
 
